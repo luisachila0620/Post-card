@@ -1,3 +1,12 @@
 /* 
     General Styles
 */
+body{
+    background-color: gray;
+}
+.main-title{
+    text-align: center;
+}
+.main-image{
+        height: 500px;
+}
