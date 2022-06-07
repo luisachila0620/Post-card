@@ -1,12 +1,10 @@
 /* 
     General Styles
 */
+
 body{
-    background-color: rgb(18, 124, 18);
+    background-color: rgba(154, 151, 151, 0.77);
 }
-.main-title{
-    text-align: center;
-}
-.main-image{
-        height: 500px;
+.mothercard{
+    margin-top: 100px
 }
