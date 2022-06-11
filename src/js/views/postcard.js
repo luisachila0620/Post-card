@@ -2,9 +2,11 @@ import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
 import "../../styles/home.css";
 
+
 export const Postcard = () => (
 	<div className="toppic">
-		<img src="https://img.freepik.com/free-photo/cute-dogs-isolated-white-background_58409-25987.jpg?w=2000" alt="..."/>	
+    
+	 <img src="https://thumbs.dreamstime.com/b/perros-y-gatos-que-miran-escondidas-sobre-bandera-del-web-111520621.jpg" alt="..."/>	
 		<div className="mothercard">
 			
 			<div className="card-group">

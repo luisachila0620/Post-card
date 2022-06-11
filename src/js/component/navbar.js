@@ -5,12 +5,12 @@ export const Navbar = () => {
 	return (
 		<nav className="navbar navbar-light bg-light mb-3"class="navbar">
 			<Link to="/">
-				<button>Get started</button>
+				<button className="getstarted">Get started</button>
 			</Link>
 			<div className="ml-auto">
-				<Link to="/demo">
-					<button className="btn btn-primary">Check the Context in action</button>
-				</Link>
+				
+					<button className="btn btn-primary">Log IN</button>
+			
 			</div>
 		</nav>
 	);
